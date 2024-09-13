@@ -1,1 +1,2 @@
-# Weather-Classification-Comparison-Australia
+## COMPARATIVE STUDY ON AUSTRALIA WEATHER CLASSIFICATION
+One type of data analysis that extracts models representing important data classes is classification. In this study, we develop a classification model from an Australian weather dataset using four different classifier algorithms: Decision Tree, Neural Network, Naïve Bayes, and Support Vector Machine. Building a predictive classifier to predict the next day's rain that is described on the target variable RainTomorrow is our objective. A variety of evaluation indicators were used to assess each classification model. We also explained the discoveries obtained from the top-performing model.
